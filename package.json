@@ -1,6 +1,6 @@
 {
 	"name": "zws.im",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"description": "A Zero Width URL shortener NPM package.",
 	"main": "src/index.js",
 	"scripts": {

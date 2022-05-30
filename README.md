@@ -12,6 +12,17 @@
 
 - http://zws.im
 
+## Example Usage 📚
+
+```js
+const zws = require('zws.im');
+
+(async () => {
+	const response = await zws('https://google.com/');
+	console.log(response);
+})();
+```
+
 ## Contributing 🤝
 
 - Feel free to check **[issues page](https://github.com/soohyeongim/zws.im/issues)**.
