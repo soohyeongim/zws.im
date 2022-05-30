@@ -1,0 +1,24 @@
+{
+	"name": "zws.im",
+	"version": "1.0.0",
+	"description": "A Zero Width URL shortener NPM package.",
+	"main": "src/index.js",
+	"scripts": {
+		"test": "node test/test.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/soohyeongim/zws.im.git"
+	},
+	"author": "김수현",
+	"license": "CC BY-NC-ND 4.0",
+	"bugs": {
+		"url": "https://github.com/soohyeongim/zws.im/issues"
+	},
+	"homepage": "https://github.com/soohyeongim/zws.im#readme",
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"axios": "^0.27.2"
+	}
+}
